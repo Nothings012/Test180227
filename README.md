@@ -1,2 +1,2 @@
 # Test180227
-//初めてのGitFub
+//初めてのGitHub
